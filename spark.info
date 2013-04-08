@@ -1,0 +1,4 @@
+name: classmapper
+version: 1.0.0
+compatibility: 2.1.0
+tags: ["classmap", "autoload", "spl_autoload_register"]
